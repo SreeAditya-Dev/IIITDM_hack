@@ -3,6 +3,8 @@
 
 Last Mile is an intelligent route optimization platform designed specifically for logistics and freight transportation in India. The application provides real-time route planning and optimization for cargo transport, helping companies save time, fuel, and money.
 
+## Live Link : https://lastmile0.vercel.app/
+
 ## DEMO VIDEO OF PROTOTYPE : https://drive.google.com/file/d/1tb42MZdLGpUthAohpzlwSH1Un5_q5T4h/view?usp=sharing
 
 ## PPT Link : https://ssneduin-my.sharepoint.com/:p:/g/personal/sreeaditya24110041_snuchennai_edu_in/Ecmkm_ZJ0NdBu0mcVh3TjJQBVVBbvVu9WzZnsWB59ATGXQ?e=qCvVcz
