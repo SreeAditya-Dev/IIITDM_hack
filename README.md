@@ -5,6 +5,8 @@ Last Mile is an intelligent route optimization platform designed specifically fo
 
 ## DEMO VIDEO OF PROTOTYPE : https://drive.google.com/file/d/1tb42MZdLGpUthAohpzlwSH1Un5_q5T4h/view?usp=sharing
 
+## PPT Link : https://ssneduin-my.sharepoint.com/:p:/g/personal/sreeaditya24110041_snuchennai_edu_in/Ecmkm_ZJ0NdBu0mcVh3TjJQBVVBbvVu9WzZnsWB59ATGXQ?e=qCvVcz
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
